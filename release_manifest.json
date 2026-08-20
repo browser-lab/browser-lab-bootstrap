@@ -1,6 +1,6 @@
 {
   "tag": "velloc-v1.149.1.10",
-  "created_utc": "2026-08-20T00:39:33Z",
+  "created_utc": "2026-08-20T03:26:12Z",
   "versions": {
     "custom_browser_major": 1,
     "chrome_major": 149,
@@ -12,7 +12,7 @@
       "name": "root",
       "path": ".",
       "tag": "velloc-v1.149.1.10",
-      "head": "3c2b791492fb2e308ecdf564bb955d0759a8f548"
+      "head": "11617b57163e2b701dcf910abef88bdac2b28b7f"
     },
     {
       "name": "src",
@@ -30,7 +30,7 @@
       "name": "nexus_web",
       "path": "nexus_web",
       "tag": "velloc-v1.149.1.10",
-      "head": "1b015b7c0d06c8035bdbdad4e85ebe153273aa07"
+      "head": "e15e77ffd8ca297afeadd7c0e21890e788e688d2"
     }
   ]
 }

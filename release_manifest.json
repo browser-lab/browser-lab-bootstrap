@@ -1,36 +1,36 @@
 {
-  "tag": "velloc-v1.149.1.10",
-  "created_utc": "2026-08-20T05:32:43Z",
+  "tag": "velloc-v1.149.1.11",
+  "created_utc": "2026-08-24T04:51:57Z",
   "versions": {
     "custom_browser_major": 1,
     "chrome_major": 149,
     "interface_version": 1,
-    "custom_browser_patch": 10
+    "custom_browser_patch": 11
   },
   "repos": [
     {
       "name": "root",
       "path": ".",
-      "tag": "velloc-v1.149.1.10",
-      "head": "f543f1179e96b1624ccccf8cc037467bd4cf9d31"
+      "tag": "velloc-v1.149.1.11",
+      "head": "8d5a8dc74af7a4cf59b78ca6ef931a2604122853"
     },
     {
       "name": "src",
       "path": "src",
-      "tag": "velloc-v1.149.1.10",
-      "head": "32945550226dd99d64a67cfe3d20d1a6a04fb28c"
+      "tag": "velloc-v1.149.1.11",
+      "head": "bad313332a4d6d2feed977a21724606fd80a6de9"
     },
     {
       "name": "custom_browser",
       "path": "src\\custom_browser",
-      "tag": "velloc-v1.149.1.10",
-      "head": "363e02a69a4e2a245200e6e61d4fa49ab527cde5"
+      "tag": "velloc-v1.149.1.11",
+      "head": "d54b6005b7934e9b3fdf104e66c20975608f21af"
     },
     {
       "name": "nexus_web",
       "path": "nexus_web",
-      "tag": "velloc-v1.149.1.10",
-      "head": "e15e77ffd8ca297afeadd7c0e21890e788e688d2"
+      "tag": "velloc-v1.149.1.11",
+      "head": "3ddd9d1ffbe67025608a032bd39a567522fcf355"
     }
   ]
 }
